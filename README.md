@@ -12,4 +12,4 @@ This repository is prepared to train the model entirely on Google Colab. That me
 
 - open the notebook `calpagan_train.ipynb` on Google Colab (using the [link](https://colab.research.google.com/github/byrkbrk/calpagan-experiment/blob/main/calpagan_train.ipynb) or the link *Open in Colab* inside the notebook)
 - log in your Google account (if you haven't yet)
-- run the (self-explanatory) notebook cells one by by
+- run the (self-explanatory) notebook cells one by one
