@@ -6,7 +6,7 @@ As a model, we use the conditional generative adversarial network (cGAN) Pix2pix
 
 ---
 
-## Requierements
+## Requirements
 
 This repository is prepared to train the model entirely on Google Colab. That means, to train the model and generate the images without any issue, it is sufficient to
 
