@@ -16,6 +16,6 @@ This repository is prepared to train the model entirely on Google Colab. That me
 
 ## Training dataset
 
-Our training dataset consists of 5000 Geant4 and Delphes (simulation) images (which represent real and condition images, respectively). One examplar pair from the dataset and the corresponding jet reconstructions are presented below:
+Our training dataset consists of 5000 Delphes and Geant4 (simulation) images (which represent condition and real images, respectively). One examplar pair from the dataset and the corresponding jet reconstructions are presented below:
 
 ![delphes-geant4-jets](./images-for-readme/delphes-geant4-jets.png)
