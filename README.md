@@ -23,6 +23,6 @@ Our training dataset consists of 5000 Delphes and Geant4 (simulation) images (wh
 
 ## Test dataset and image generation
 
-Similary, our test dataset contains 4999 Delphes and Geant4 image pair that serve as condition and ground truth examples, respectively. One examplar of the generated images (i.e., fake) for the provided condition (i.e., Delphes) and real (i.e., Geant4) images is as follows:
+Similary, our test dataset contains 4999 Delphes and Geant4 image pairs that serve as condition and ground truth examples, respectively. One examplar of the generated images (i.e., fake) for the provided condition (i.e., Delphes) and real (i.e., Geant4) images is as follows:
 
 ![condition-real-fake](./images-for-readme/condition-real-fake.png)
