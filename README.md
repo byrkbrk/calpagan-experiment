@@ -10,7 +10,8 @@ As a model, we use Pix2pix, a conditional generative adversarial networks (cGAN)
 
 This repository is prepared to train the model entirely on Google Colab. That means, to train the model and generate the images without any issue, it is sufficient to
 
-- open the notebook `calpagan_train_test.ipynb` on Google Colab (using the [link](https://colab.research.google.com/github/byrkbrk/calpagan-experiment/blob/main/calpagan_train_test.ipynb) or the link *Open in Colab* inside the notebook)
+- open the notebook [`calpagan_train_test.ipynb`](https://github.com/byrkbrk/calpagan-experiment/blob/0a29eaa9617c3e1f7290a8d61cdd414eac54eda0/calpagan_train_test.ipynb) 
+on Google Colab (using the [link](https://colab.research.google.com/github/byrkbrk/calpagan-experiment/blob/main/calpagan_train_test.ipynb) or the link *Open in Colab* inside the notebook)
 - log in your Google account (if you haven't yet)
 - run the (self-explanatory) notebook cells one by one
 
