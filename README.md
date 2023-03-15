@@ -19,3 +19,9 @@ This repository is prepared to train the model entirely on Google Colab. That me
 Our training dataset consists of 5000 Delphes and Geant4 (simulation) images (which represent condition and real images, respectively). One examplar pair from the dataset and the corresponding jet reconstructions are presented below:
 
 ![delphes-geant4-jets](./images-for-readme/delphes-geant4-jets.png)
+
+## Test dataset and image generation
+
+Similary, our test dataset contains 4999 Delphes and Geant4 image pair that serve as condition and ground truth examples, respectively. One examplar of the generated image (i.e., fake) for the provided condition (i.e., Delphes) and real (i.e., Geant4) images is as follows:
+
+![condition-real-fake](./images-for-readme/condition-real-fake.png)
